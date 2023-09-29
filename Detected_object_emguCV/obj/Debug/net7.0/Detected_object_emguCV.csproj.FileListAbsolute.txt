@@ -1,0 +1,17 @@
+C:\CODE\C#\Detected_object_emguCV\bin\Debug\net7.0\Detected_object_emguCV.exe
+C:\CODE\C#\Detected_object_emguCV\bin\Debug\net7.0\Detected_object_emguCV.deps.json
+C:\CODE\C#\Detected_object_emguCV\bin\Debug\net7.0\Detected_object_emguCV.runtimeconfig.json
+C:\CODE\C#\Detected_object_emguCV\bin\Debug\net7.0\Detected_object_emguCV.dll
+C:\CODE\C#\Detected_object_emguCV\bin\Debug\net7.0\Detected_object_emguCV.pdb
+C:\CODE\C#\Detected_object_emguCV\bin\Debug\net7.0\Emgu.CV.dll
+C:\CODE\C#\Detected_object_emguCV\obj\Debug\net7.0\Detected_object_emguCV.csproj.AssemblyReference.cache
+C:\CODE\C#\Detected_object_emguCV\obj\Debug\net7.0\Detected_object_emguCV.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\C#\Detected_object_emguCV\obj\Debug\net7.0\Detected_object_emguCV.AssemblyInfoInputs.cache
+C:\CODE\C#\Detected_object_emguCV\obj\Debug\net7.0\Detected_object_emguCV.AssemblyInfo.cs
+C:\CODE\C#\Detected_object_emguCV\obj\Debug\net7.0\Detected_object_emguCV.csproj.CoreCompileInputs.cache
+C:\CODE\C#\Detected_object_emguCV\obj\Debug\net7.0\Detected_object_emguCV.csproj.CopyComplete
+C:\CODE\C#\Detected_object_emguCV\obj\Debug\net7.0\Detected_object_emguCV.dll
+C:\CODE\C#\Detected_object_emguCV\obj\Debug\net7.0\refint\Detected_object_emguCV.dll
+C:\CODE\C#\Detected_object_emguCV\obj\Debug\net7.0\Detected_object_emguCV.pdb
+C:\CODE\C#\Detected_object_emguCV\obj\Debug\net7.0\Detected_object_emguCV.genruntimeconfig.cache
+C:\CODE\C#\Detected_object_emguCV\obj\Debug\net7.0\ref\Detected_object_emguCV.dll
